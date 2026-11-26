@@ -1,6 +1,6 @@
 # Suumer US Local Events: weekly snapshot
 
-Every upcoming public event listed on [Suumer](https://suumer.com) on 2026-11-26: 895,872 dated events at 156,973 places in 15,017 towns across 53 states and territories, through 2029-11-26. Trivia nights, concerts, comedy, story times, markets, plays, classes and more.
+Every upcoming public event listed on [Suumer](https://suumer.com) on 2026-11-26: 897,432 dated events at 157,467 places in 15,034 towns across 53 states and territories, through 2029-11-26. Trivia nights, concerts, comedy, story times, markets, plays, classes and more.
 
 Suumer is a free guide to what's on near you in the United States. Each listing is checked against the venue's or organizer's own public page before it goes live. A fresh copy comes out every week.
 
